@@ -57,12 +57,6 @@ npm install
 grunt
 
 ```
-
-##Additional message types
-Currently, Amida's Node-only HL7 library does not provide full HL7 coverage. For a more complete implementation built on the Java HAPI HL7 implementation, see https://github.com/MatthewVita/node-hl7-complete. Keep in mind that running this library requires the use of Java 7.
-
-The HAPI library exports two functions, `jsToHl7` and `hl7ToJs`. If you want to use the HAPI library as a drop-in for this library, replace `parseString(data)` with `hl7ToJs(data, callback)`, and replace `serializeJSON(data, options)` with `jsToHl7(dataType, data, callback)`.
-
 ## Release Notes
 
 See release notes [here] (./RELEASENOTES.md)
