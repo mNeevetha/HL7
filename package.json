@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/amida-tech/hl7.git"
+    "url": "https://github.com/mNeevetha/HL7.git"
   },
   "keywords": [
     "hl7",
@@ -16,10 +16,6 @@
     "parser"
   ],
   "author": "Neevetha M",
-  "bugs": {
-    "url": "https://github.com/amida-tech/hl7/issues"
-  },
-  "homepage": "https://github.com/amida-tech/hl7",
   "licenses": [
     {
       "type": "Apache 2.0",

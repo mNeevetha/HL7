@@ -63,10 +63,6 @@ Currently, Amida's Node-only HL7 library does not provide full HL7 coverage. For
 
 The HAPI library exports two functions, `jsToHl7` and `hl7ToJs`. If you want to use the HAPI library as a drop-in for this library, replace `parseString(data)` with `hl7ToJs(data, callback)`, and replace `serializeJSON(data, options)` with `jsToHl7(dataType, data, callback)`.
 
-## Contributing
-
-Contributors are welcome. See issues https://github.com/amida-tech/hl7/issues
-
 ## Release Notes
 
 See release notes [here] (./RELEASENOTES.md)
