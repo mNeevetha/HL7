@@ -64,3 +64,6 @@ See release notes [here] (./RELEASENOTES.md)
 ## License
 
 Licensed under [Apache 2.0](./LICENSE)
+
+
+https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec
